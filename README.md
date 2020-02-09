@@ -4,7 +4,7 @@ python browser automation using pyppeteer v0.0.25 (headless chromium automation 
 
 ## Background
 
-Needing to using manualy login via terminal base browser (lynx) on virtual machine to connect to Uni Network to start my IoT Project is "labour Intensive -_-", SOOO I made this
+Needing to using manually login via terminal base browser (lynx) on virtual machine to connect to Uni Network to start my IoT Project is "labour Intensive -_-", SOOO I made this
 ### Then
 
 ![](https://github.com/wimbuhAdi/noGUI-httpLoginAutomation/blob/master/SS%20images/noSuccesLoginRequred.jpg)
