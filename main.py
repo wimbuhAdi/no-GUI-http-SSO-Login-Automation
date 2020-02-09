@@ -1,7 +1,9 @@
 import asyncio, time
 from pyppeteer import launch
+
 UNAME = "UsernameGoesHere"
 PASSWORD = "literalyYourpassword"
+
 async def main():
     browser = await launch()
     page = await browser.newPage()
