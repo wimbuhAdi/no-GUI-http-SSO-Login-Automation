@@ -18,4 +18,6 @@ Or install latest version from github:
 You and add other functionality to your automation project using provided pyppeteer API which is puppeteer alternative for python development
 
 =============================================================
+
+
 From my understanding that the pyppeteer using asyncio-await to make sure the chromium process is finish before next command line is executed, this make sure the element on the web page that the program want to interract is present (so wouldn't throw element not found error)
