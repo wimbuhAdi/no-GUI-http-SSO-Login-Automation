@@ -2,6 +2,17 @@
 
 python browser automation using pyppeteer v0.0.25 (headless chromium automation library) to automate login policy in order to joint UGM University Network
 
+## Background
+
+Needing to using manualy login via terminal base browser (lynx) on virtual machine to connect to Uni Network to start my IoT Project is "labour Intensive -_-", SOOO I made this
+### Then
+
+![](https://github.com/wimbuhAdi/noGUI-httpLoginAutomation/blob/master/SS%20images/noSuccesLoginRequred.jpg)
+
+### Now
+
+![](https://github.com/wimbuhAdi/noGUI-httpLoginAutomation/blob/master/SS%20images/loginSucessScreenshot_1.jpg)
+
 ## Testing Enviroment
 
 tested on python3.7 (faceing dificulties with 2.7 and 3.5) running on cloud ubuntu 16.04
