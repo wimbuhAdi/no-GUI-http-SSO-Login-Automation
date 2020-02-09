@@ -17,7 +17,7 @@ async def main():
     await page.type('#username',UNAME)
     await page.type('#password',PASSWORD)
     await page.click('#fm1 > input.btn.btn-primary')
-    print("Login SSO sucess as %s"UNAME )
+    print("Login SSO sucess as %s" %UNAME )
     await asyncio.sleep(2)
     await browser.close()
 
