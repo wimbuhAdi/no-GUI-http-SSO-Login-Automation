@@ -1,3 +1,8 @@
+'''
+HI PAL, this python script run on python 3.6+ 
+you need to setup the requrements as documented on https://github.com/wimbuhAdi/noGUI-httpLoginAutomation
+WISH YOUR PROJECT GOES SMOOTHHHH.....
+'''
 import asyncio, time
 from pyppeteer import launch
 
