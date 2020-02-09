@@ -1,4 +1,4 @@
-# no-GUI-http-SSO-Login-Automation
+# noGUI-httpLoginAutomation
 
 python browser automation using pyppeteer v0.0.25 (headless chromium automation library) to automate login policy in order to joint UGM University Network
 
